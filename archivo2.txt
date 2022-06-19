@@ -1,3 +1,0 @@
-esta es una segundra prueba para GIT
-
-esto es una cambio en el archivo para ver que ocurre
